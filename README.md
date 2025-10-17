@@ -1,5 +1,5 @@
-# Calculator-project-
-A simple and responsive calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a clean and modern design — perfect for beginners learning front-end development.
+# Calculator-project
+
 🧮 Simple Calculator
 
 A clean and responsive calculator built using HTML, CSS, and JavaScript.
@@ -29,15 +29,8 @@ Styling UI components using CSS grid
 Building and deploying small web projects
 
 
-🚀 How to Use
-
-1. Clone or download the repository
-
-
-2. Open the file index.html in your browser
-
-
-3. Start calc
+live demo
+(https://kathuremwirigi33-boop.github.io/Calculator-project-/)
 
 
 🧰 Technologies Used
